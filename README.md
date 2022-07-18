@@ -1,4 +1,4 @@
-# Shopping-List
+# Shopping List
 I have created a grocery shopping list to make planning my grocery shopping a little more conveinent. 
 This list includes the following: 
 
